@@ -1,6 +1,6 @@
 # Xata benchmark results
 
-This repo contains configuration and results for the benchmarks runs for this [blog post](https://xata.io/blog/reaction-to-the-planetscale-postgresql-benchmarks).
+This repo contains scripts, configurations used, and results for the benchmarks runs for this [blog post](https://xata.io/blog/reaction-to-the-planetscale-postgresql-benchmarks).
 
 It is based on the [PlanetScale PostgreSQL benchmarks](https://planetscale.com/blog/benchmarking-postgres).
 
